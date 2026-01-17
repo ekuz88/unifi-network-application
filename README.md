@@ -1,5 +1,19 @@
 # UniFi Network Application with Docker Compose
 
+## License and attribution
+
+This project is based on the work  
+docker-unifi-network-application  
+https://github.com/linuxserver/docker-unifi-network-application
+
+Original work  
+Copyright © LinuxServer.io team
+
+Modifications  
+Copyright © 2026 Kuznetsov Evgenii
+
+This project is distributed under the GNU General Public License v3.
+
 ## Overview
 
 I needed to deploy a **UniFi Network Application** server and wanted to run it in a containerized setup.
@@ -168,7 +182,5 @@ docker compose down --rmi
 ---
 
 ## Disclaimer
-
-This project is not affiliated with or endorsed by Ubiquiti.
 
 Use it at your own discretion and always test before deploying to production.
